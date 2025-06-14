@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: b.aux
+The style file: unsrt.bst
+Database file #1: bibliografia.bib
+Warning--empty publisher in fleurent1994
+You've used 39 entries,
+            1791 wiz_defined-function locations,
+            671 strings with 8303 characters,
+and the built_in function-call counts, 10090 in all, are:
+= -- 1018
+> -- 302
+< -- 10
++ -- 118
+- -- 79
+* -- 711
+:= -- 1496
+add.period$ -- 125
+call.type$ -- 39
+change.case$ -- 37
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 453
+empty$ -- 1021
+format.name$ -- 79
+if$ -- 2286
+int.to.chr$ -- 0
+int.to.str$ -- 39
+missing$ -- 41
+newline$ -- 198
+num.names$ -- 39
+pop$ -- 90
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 216
+stack$ -- 0
+substring$ -- 928
+swap$ -- 113
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 121
+width$ -- 41
+write$ -- 438
+(There was 1 warning)

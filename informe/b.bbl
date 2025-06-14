@@ -1,0 +1,215 @@
+\begin{thebibliography}{10}
+
+\bibitem{sahni1976}
+S.~Sahni and T.~Gonzalez.
+\newblock P-complete approximation problems.
+\newblock {\em Journal of the ACM}, 23(3):555--565, 1976.
+
+\bibitem{koopmans1957}
+T.~C. Koopmans and M.~Beckmann.
+\newblock Assignment problems and the location of economic activities.
+\newblock {\em Econometrica}, 25(1):53--76, 1957.
+
+\bibitem{steinberg1961}
+L.~Steinberg.
+\newblock The backboard wiring problem: a placement algorithm.
+\newblock {\em SIAM Review}, 3(1):37--50, 1961.
+
+\bibitem{burkard1997}
+R.~E. Burkard and F.~Rendl.
+\newblock A thermodynamically motivated simulation procedure for combinatorial
+  optimization problems.
+\newblock {\em European Journal of Operational Research}, 17(2):169--174, 1997.
+
+\bibitem{anstreicher2003}
+K.~M. Anstreicher.
+\newblock Recent advances in the solution of quadratic assignment problems.
+\newblock {\em Mathematical Programming}, 97(1-2):27--42, 2003.
+
+\bibitem{burkard1997qaplib}
+R.~E. Burkard, S.~E. Karisch, and F.~Rendl.
+\newblock Qaplib--a quadratic assignment problem library.
+\newblock {\em Journal of Global Optimization}, 10(4):391--403, 1997.
+
+\bibitem{arora1998}
+S.~Arora, A.~Frieze, and H.~Kaplan.
+\newblock A new rounding procedure for the assignment problem with applications
+  to dense graph arrangement problems.
+\newblock {\em Mathematical Programming}, 92(1):1--36, 1998.
+
+\bibitem{elshafei1977}
+A.~N. Elshafei.
+\newblock Hospital layout as a quadratic assignment problem.
+\newblock {\em Operational Research Quarterly}, 28(1):167--179, 1977.
+
+\bibitem{taillard1995}
+{\'E}.~D. Taillard.
+\newblock Comparison of iterative searches for the quadratic assignment
+  problem.
+\newblock {\em Location Science}, 3(2):87--105, 1995.
+
+\bibitem{krarup1978}
+J.~Krarup and P.~M. Pruzan.
+\newblock A survey of quadratic assignment problems.
+\newblock {\em European Journal of Operational Research}, 2(5):315--331, 1978.
+
+\bibitem{phillips2000}
+A.~T. Phillips and J.~B. Rosen.
+\newblock A quadratic assignment formulation of the molecular conformation
+  problem.
+\newblock {\em Journal of Global Optimization}, 17(1-4):315--325, 2000.
+
+\bibitem{maciel2003}
+A.~I. Maciel and S.~Sool.
+\newblock A parallel genetic algorithm for the quadratic assignment problem.
+\newblock In {\em International Conference on Computational Science}, pages
+  86--95. Springer, 2003.
+
+\bibitem{glover1989}
+F.~Glover.
+\newblock Tabu search---part i.
+\newblock {\em ORSA Journal on Computing}, 1(3):190--206, 1989.
+
+\bibitem{glover1990}
+F.~Glover.
+\newblock Tabu search---part ii.
+\newblock {\em ORSA Journal on Computing}, 2(1):4--32, 1990.
+
+\bibitem{taillard1991}
+{\'E}.~D. Taillard.
+\newblock Robust taboo search for the quadratic assignment problem.
+\newblock {\em Parallel computing}, 17(4-5):443--455, 1991.
+
+\bibitem{battiti1994}
+R.~Battiti and G.~Tecchiolli.
+\newblock The reactive tabu search.
+\newblock {\em ORSA Journal on Computing}, 6(2):126--140, 1994.
+
+\bibitem{drezner2005}
+Z.~Drezner.
+\newblock The extended concentric tabu for the quadratic assignment problem.
+\newblock {\em European Journal of Operational Research}, 160(2):416--422,
+  2005.
+
+\bibitem{connolly1990}
+D.~T. Connolly.
+\newblock An improved annealing scheme for the qap.
+\newblock {\em European Journal of Operational Research}, 46(1):93--100, 1990.
+
+\bibitem{wilhelm1987}
+M.~R. Wilhelm and T.~L. Ward.
+\newblock Solving quadratic assignment problems by 'simulated annealing'.
+\newblock {\em IIE transactions}, 19(1):107--119, 1987.
+
+\bibitem{tate1995}
+D.~M. Tate and A.~E. Smith.
+\newblock A genetic approach to the quadratic assignment problem.
+\newblock {\em Computers \& Operations Research}, 22(1):73--83, 1995.
+
+\bibitem{drezner2003}
+Z.~Drezner.
+\newblock A new genetic algorithm for the quadratic assignment problem.
+\newblock {\em INFORMS Journal on Computing}, 15(3):320--330, 2003.
+
+\bibitem{ahuja2000}
+R.~K. Ahuja, J.~B. Orlin, and A.~Tiwari.
+\newblock A greedy genetic algorithm for the quadratic assignment problem.
+\newblock {\em Computers \& Operations Research}, 27(10):917--934, 2000.
+
+\bibitem{stutzle2000}
+T.~St{\"u}tzle and H.~H. Hoos.
+\newblock Max-min ant system.
+\newblock {\em Future Generation Computer Systems}, 16(8):889--914, 2000.
+
+\bibitem{gambardella1999}
+L.~M. Gambardella, E.~D. Taillard, and M.~Dorigo.
+\newblock Ant colonies for the quadratic assignment problem.
+\newblock {\em Journal of the Operational Research Society}, 50(2):167--176,
+  1999.
+
+\bibitem{li2000}
+Y.~Li, P.~M. Pardalos, and M.~G. Resende.
+\newblock A greedy randomized adaptive search procedure for the quadratic
+  assignment problem.
+\newblock In {\em Randomized, adaptive, and greedy algorithms}, pages 237--261.
+  Springer, 2000.
+
+\bibitem{oliveira2004}
+C.~A. Oliveira, P.~M. Pardalos, and M.~G. Resende.
+\newblock Grasp with path-relinking for the quadratic assignment problem.
+\newblock In {\em Experimental and Efficient Algorithms}, pages 356--368.
+  Springer, 2004.
+
+\bibitem{mladenovic2007}
+N.~Mladenovi{\'c} and P.~Hansen.
+\newblock Variable neighborhood search.
+\newblock {\em Computers \& Operations Research}, 24(11):1097--1100, 2007.
+
+\bibitem{hansen2004}
+P.~Hansen and N.~Mladenovi{\'c}.
+\newblock Variable neighborhood search.
+\newblock In {\em State-of-the-art handbook of metaheuristics}, pages 145--184.
+  Springer, 2004.
+
+\bibitem{fleurent1994}
+C.~Fleurent and J.~A. Ferland.
+\newblock Genetic hybrids for the quadratic assignment problem.
+\newblock In {\em DIMACS Series in Discrete Mathematics and Theoretical
+  Computer Science}, volume~16, pages 173--187. 1994.
+
+\bibitem{merz2000}
+P.~Merz and B.~Freisleben.
+\newblock A genetic local search approach to the quadratic assignment problem.
+\newblock In {\em Proceedings of the 2000 Congress on Evolutionary
+  Computation}, volume~1, pages 623--630. IEEE, 2000.
+
+\bibitem{cela1998}
+E.~Cela.
+\newblock {\em The quadratic assignment problem: theory and algorithms}.
+\newblock Springer Science \& Business Media, 1998.
+
+\bibitem{loiola2007}
+E.~M. Loiola, N.~M. de~Abreu, P.~O. Boaventura-Netto, P.~Hahn, and T.~Querido.
+\newblock A survey for the quadratic assignment problem.
+\newblock {\em European Journal of Operational Research}, 176(2):657--690,
+  2007.
+
+\bibitem{james2009}
+T.~James, C.~Rego, and F.~Glover.
+\newblock Multistart tabu search and scatter search for the quadratic
+  assignment problem.
+\newblock {\em INFORMS Journal on Computing}, 21(1):89--103, 2009.
+
+\bibitem{glover1997}
+F.~Glover and M.~Laguna.
+\newblock {\em Tabu Search}.
+\newblock Kluwer Academic Publishers, 1997.
+
+\bibitem{gendreau2003}
+M.~Gendreau.
+\newblock An introduction to tabu search.
+\newblock In {\em Handbook of Metaheuristics}, pages 37--54. Springer, 2003.
+
+\bibitem{kelly1995}
+J.~P. Kelly, M.~Laguna, and F.~Glover.
+\newblock A study of diversification strategies for the quadratic assignment
+  problem.
+\newblock {\em Journal of Heuristics}, 1(2):129--149, 1995.
+
+\bibitem{glover2000}
+F.~Glover, M.~Laguna, and R.~Mart{\'i}.
+\newblock Fundamentals of scatter search and path relinking.
+\newblock {\em Control and Cybernetics}, 29(3):653--684, 2000.
+
+\bibitem{burkard1998}
+R.~E. Burkard, E.~Cela, P.~M. Pardalos, and L.~S. Pitsoulis.
+\newblock The quadratic assignment problem.
+\newblock In {\em Handbook of Combinatorial Optimization}, pages 1713--1809.
+  Springer, 1998.
+
+\bibitem{burkard1984}
+R.~E. Burkard.
+\newblock Quadratic assignment problems.
+\newblock {\em European Journal of Operational Research}, 15(3):283--289, 1984.
+
+\end{thebibliography}

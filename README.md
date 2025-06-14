@@ -9,7 +9,7 @@
     *   Pablo Jordan
     *   Camilo Avendaño
 *   **Profesor:** Mario Inostroza
-*   **Fecha:** 14 de Junio de 2025
+*   **Fecha:** 13 de Junio de 2025
 
 ---
 
